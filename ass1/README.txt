@@ -1,1 +1,1 @@
-see the file ass1.m for your assignment
+A navigation algorithm using single laser scan as mapping and wheel odometry as localization.
